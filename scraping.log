@@ -1,0 +1,5 @@
+ERROR:root:Error fetching the webpage: 403 Client Error: Forbidden for url: https://mydawa.com/
+ERROR:root:Error fetching the webpage: 403 Client Error: Forbidden for url: https://mydawa.com/
+ERROR:root:Error fetching the webpage: 403 Client Error: Forbidden for url: https://mydawa.com/
+INFO:root:Scraping completed and data saved to data.json
+INFO:root:Scraping completed and data saved to data.json
